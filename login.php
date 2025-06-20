@@ -18,7 +18,7 @@ $_SESSION['bbdmsdid']=$result->id;
 }
 $_SESSION['login']=$_POST['email'];
 header('location:index.php');
-exit;
+exit; 
 } else{
 echo "<script>alert('Invalid Details');</script>";
 }

@@ -10,8 +10,10 @@ include('includes/config.php');
 	<title>Blood Donation Management System | Save Lives</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
-	<!-- Custom-Files -->
-	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Custom-Files  only -->
+	<link rel="stylesheet" href="css/bootstrap.css"> 
+	
+
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
 	<link rel="stylesheet" href="css/fontawesome-all.css">
 	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
